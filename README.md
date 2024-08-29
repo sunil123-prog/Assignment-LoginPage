@@ -26,3 +26,5 @@ Example for Login:
   * raju@gmail.com
   * 123456
     -After that you can Submit it can show response message from API.
+
+    Upon successful submission, a confirmation message is displayed. If the internet connection is lost during submission, an error message is shown, indicating the failure to connect.
